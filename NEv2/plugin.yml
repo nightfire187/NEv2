@@ -1,6 +1,6 @@
 name: nightsevents
 main: me.nightfire187.nightsevents.nightsevents
-version: 1.5.6
+version: 2.0
 description: Event hosting made easy!
 commands:
       openevent:
