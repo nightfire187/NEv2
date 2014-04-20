@@ -1,0 +1,25 @@
+name: nightsevents
+main: me.nightfire187.nightsevents.nightsevents
+version: 1.5.6
+description: Event hosting made easy!
+commands:
+      openevent:
+            description: Opens a server event.
+      closeevent:
+            description: Closes a server event.
+      joinevent:
+            description: Joins a server event.
+      eventstatus:
+            description: Send a custom status message.
+      nereload:
+            description: Reloads the config!
+      openspec:
+            description: Opens a spectator event..
+      closespec:
+            description: Closes a spectator event.
+      joinspec:
+            description: Joins a spectator event.
+      resendevent:
+            description: Resends the server event message.
+      resendspec:
+            description: Resends the spec event message.

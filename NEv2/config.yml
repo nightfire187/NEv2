@@ -1,0 +1,105 @@
+### NightsEvents Default Config File ###
+
+##UPDATE TOGGLE
+updatecheck: true
+
+## PREFIX MESSAGE     # This is for all events prefixes!
+prefix: '[NE]'  
+prefixcolor: '4'
+
+
+## [EVENT NAME] MESSAGE  #There is no message config cause you type this part.
+emessagecolor: 'a'
+
+
+## PLAYER RECEIVED MESSAGE
+        # SERVER EVENT JOIN
+jmessage: 'You have joined a server event!'
+jmessagecolor: '5'
+        # SPECTATOR EVENT JOIN
+jsmessage: 'You have joined a spectator event!'
+jsmessagecolor: '5'
+        # SERVER EVENT CLOSE
+cmessage2: 'You Have closed the active event!'
+cmessage2color: '5'
+        # SPECTATOR EVENT CLOSE
+csmessage2: 'You have closed the active spectator event!!'
+csmessage2color: '5'
+
+
+## OPEN EVENT MESSAGE
+        # OPEN EVENT FRONT MESSAGE 
+oemessage: 'Opening event-'
+oemessagecolor: '6'
+        # OPEN EVENT BACK MESSAGE
+oemessage2: 'Do /joinevent to attend.'
+ocmessage2color: 'b'
+
+
+## SPECTATOR OPEN MESSAGE
+        #SPECTATOR EVENT FORNT MESSAGE
+smessage: 'Opening spectator event-'
+smessagecolor: '6'
+        #SPECTATOR EVENT BACK MESSAGE
+smessage2: 'Do /joinspec to attend.'
+smessage2color: 'b'
+
+
+## EVENTSTATUS MESSAGE
+        # EVENT STATUS FRONT MESSAGE
+esmessage: 'Open event-'
+esmessagecolor: '6'
+        # EVENT STATUS BACK MESSAGE
+esmessage2: 'Do /joinevent to attend.'
+esmessage2color: 'b'
+
+
+## RESEND SERVER EVENT MESSAGE
+        # EVENT STATUS FRONT MESSAGE
+rsmessage: 'Open event-'
+rsmessagecolor: '6'
+        # EVENT STATUS BACK MESSAGE
+rsmessage2: 'Do /joinevent to attend.'
+rsmessage2color: 'b'
+
+
+## RESEND SPEC EVENT MESSAGE
+        # EVENT STATUS FRONT MESSAGE
+rsmessage3: 'Open spectator event-'
+rsmessage3color: '6'
+        # EVENT STATUS BACK MESSAGE
+rsmessage4: 'Do /joinspec to attend.'
+rsmessage4color: 'b'
+
+
+## CLOSEEVENT MESSAGE
+        # SERVER EVENT CLOSE MESSAGE
+cmessage: 'Event has been closed!'
+cmessagecolor: '4'
+        # SPECTATOR EVENT CLOSE EVENT
+csmessage: 'Event has been closed!'
+csmessagecolor: '4'
+
+# COLOR INFO uses single numbers/letters only
+# BLACK('0')
+# DARK_BLUE('1')
+# DARK_GREEN('2')
+# DARK_AQUA('3')
+# DARK_RED('4')
+# DARK_PURPLE('5')
+# GOLD('6')
+# GRAY('7')
+# DARK_GRAY('8')
+# BLUE('9')
+# GREEN('a')
+# AQUA('b')
+# RED('c')
+# LIGHT_PURPLE('d')
+# YELLOW('e')
+# WHITE('f')
+# MAGIC('k')
+# BOLD('l')
+# STRIKETHROUGH('m')
+# UNDERLINE('n')
+# ITALIC('o')
+# RESET('r')
